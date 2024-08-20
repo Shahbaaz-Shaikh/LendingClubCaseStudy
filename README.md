@@ -18,10 +18,6 @@
 ## Conclusions
 - Higher interest rates are strongly correlated with an increased likelihood of loan default, indicating that applicants with higher interest rates should be scrutinized more closely.
 - Employment length plays a significant role in default risk, with shorter employment lengths correlating with higher default rates.
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
