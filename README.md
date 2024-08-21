@@ -16,9 +16,12 @@
 
 
 ## Conclusions
-- Higher interest rates are strongly correlated with an increased likelihood of loan default, indicating that applicants with higher interest rates should be scrutinized more closely.
+- Applicants having house_ownership as 'RENT',employement length greater than 10, loan status which is Not verified, are strongly correlated with an increased likelihood of loan default.
 - Employment length plays a significant role in default risk, with shorter employment lengths correlating with higher default rates.
-
+- Other Reasons can be as below
+Applicants who have taken a loan for small business and the loan amount is greater than 14k
+Applicants taking loan for 'home improvement' and have income of 60k -70k
+For grade G and interest rate above 20%
 
 ## Technologies Used
 - Pandas  - 2.2.2
